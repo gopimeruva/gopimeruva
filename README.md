@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=13F7BC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Gopi+Meruva!;Full+Stack+Developer+%7C+Data+Science+Enthusiast;Always+Learning+%26+Building+Intelligent+Applications!-blue" />
+  <img src="Profile.jpeg" />
 </p>
 
 <p align="center">

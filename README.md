@@ -152,7 +152,7 @@ I am a lifelong learner, always eager to grow, contribute, and collaborate on me
 Here are a few highlights of my open-source work. Visit my [GitHub Repositories](https://github.com/gopimeruva?tab=repositories) for more.
 
 1.  **Online Shopping Cart**
-    * **Description**: An E-Commerce Website built for selling electronics products online.
+    * **Description**: An E-Commerce Website built for selling electronic products online.
     * **Tech Stack**:
         * **Front-End:** HTML, CSS, JavaScript, Bootstrap
         * **Back-End:** Java (JDK 8+), JDBC, Servlet, JSP
@@ -197,7 +197,7 @@ Here are a few highlights of my open-source work. Visit my [GitHub Repositories]
   <a href="https://github.com/gopimeruva"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="50" /></a>
 </p>
 
-I’m always open to discussing data science, AI projects, and collaboration opportunities. Feel free to reach out!
+I’m always open to discussing  Full-Stack Software Engineering, data science, AI projects, and collaboration opportunities. Feel free to reach out!
 
 ---
 

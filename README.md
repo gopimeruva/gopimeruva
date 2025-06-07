@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=13F7BC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Gopi+Meruva!;Full+Stack+Developer+%7C+Data+Science+Enthusiast;Always+Learning+%26+Building+Intelligent+Applications!-blue" />
+</p>
+<p align="center">
   <a href="mailto:meruvagopi1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meruvagopi1%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="tel:+19137099572"><img alt="Phone" src="https://img.shields.io/badge/Phone-(913)%20709--9572-brightgreen?style=flat-square&logo=google-voice"></a>
   <a href="https://www.linkedin.com/in/gopireddymeruva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>

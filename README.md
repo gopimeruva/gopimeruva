@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="Profile.jpeg" />
-</p>
-
-<p align="center">
   <a href="mailto:meruvagopi1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meruvagopi1%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="tel:+19137099572"><img alt="Phone" src="https://img.shields.io/badge/Phone-(913)%20709--9572-brightgreen?style=flat-square&logo=google-voice"></a>
   <a href="https://www.linkedin.com/in/gopireddymeruva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>

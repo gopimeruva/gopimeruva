@@ -1,12 +1,31 @@
-# Gopi Meruva | Full Stack Developer & Data Science Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=13F7BC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Gopi+Meruva!;Full+Stack+Developer+%7C+Data+Science+Enthusiast;Always+Learning+%26+Building+Intelligent+Applications!-blue" />
+</p>
+
+<p align="center">
+  <a href="mailto:meruvagopi1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meruvagopi1%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="tel:+19137099572"><img alt="Phone" src="https://img.shields.io/badge/Phone-(913)%20709--9572-brightgreen?style=flat-square&logo=google-voice"></a>
+  <a href="https://www.linkedin.com/in/gopireddymeruva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/gopimeruva"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-gopimeruva-lightgrey?style=flat-square&logo=github"></a>
+  <br/>
+  <strong>Location:</strong> Open to Relocation
+</p>
 
 ---
 
-Welcome to my GitHub profile! I'm Gopi Meruva, a passionate Full Stack Software Engineer with over 5 years of hands-on experience in building secure, scalable, and high-performing applications. I thrive on designing clean architectures, writing maintainable code, and continuously exploring new technologies—especially at the intersection of cloud, automation, and AI.
-
-My expertise spans full-stack development, with a deep commitment to transforming complex AI concepts into production-ready solutions. I specialize in leveraging computer vision and LLMs to build scalable systems that solve real-world challenges and deliver measurable results.
+**Hello!** I’m Gopi Meruva, a passionate Full Stack Software Engineer with over 5 years of hands-on experience in building secure, scalable, and high-performing applications. I thrive on designing clean architectures, writing maintainable code, and continuously exploring new technologies—especially at the intersection of cloud, automation, and AI. My expertise spans full-stack development, with a deep commitment to transforming complex AI concepts into production-ready solutions. I specialize in leveraging computer vision and LLMs to build scalable systems that solve real-world challenges and deliver measurable results.
 
 ---
+
+## 📑 Table of Contents
+
+1.  [About Me](#-about-me)
+2.  [Work Experience](#-work-experience)
+3.  [Skills](#-skills)
+4.  [Education](#-education)
+5.  [Certifications](#-certifications)
+6.  [Personal Projects](#-personal-projects)
+7.  [Let's Connect](#-lets-connect)
 
 ## 🚀 About Me
 
@@ -16,38 +35,7 @@ I specialize in **Java, Spring Boot, Hibernate, and modern web service architect
 
 I am a lifelong learner, always eager to grow, contribute, and collaborate on meaningful software that makes a difference.
 
----
-
-## 🛠️ Technical Skills
-
-Here's a breakdown of my technical toolkit:
-
-### Programming Languages
-* C, C++, Data Structures
-* Java (JDK 8+), J2EE, ORMs, JMS, OOAD
-* R
-* Python
-* SQL
-
-### Frameworks & Tools
-* **Java Ecosystem:** Hibernate, Spring MVC, Spring IOC, Spring AOP, Spring Boot, JUnit, Maven, Jenkins, Sonar Cube, CodeGenie, Swagger, Postman
-* **Testing:** Jest, Mocha, TestNG, PyTest, Cucumber, Cypress, Playwright
-
-### Databases & Webservers
-* Oracle RDBMS, MySQL, PostgreSQL, MongoDB, SQL Server
-
-### Web Technologies
-* Micro Frontend Architecture, HTML5, CSS3, JavaScript, TypeScript, VueJS, NodeJS, AngularJS, Stencil.js, CSS, XML, JSON, ReactJS, Bootstrap
-
-### DevOps & Cloud
-* RESTful, SOAP, Microservices, AWS, Azure, Splunk, Git, Docker, Kubernetes, BitBucket, Jira, CI/CD (Continuous Integration/Continuous Deployment), Terraform
-
-### Data Science & Miscellaneous
-* Regression, Classification, Clustering, Decision Trees, NLP, Random Forests, ETL, Data Pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics
-
----
-
-## 💼 Professional Experience
+## 💼 Work Experience
 
 ### **Software Developer Engineer** | Capital One | Richmond, Virginia
 *Jan 2024 - Present*
@@ -111,53 +99,42 @@ Here's a breakdown of my technical toolkit:
 * Understood and reviewed routing protocols and routing table configurations.
 * Applied Object-Oriented Analysis and Design (OOAD) in building modular codebases. Implemented and maintained J2EE components including Servlets, JSP, and EJBs. Wrote Unit, Live dependency test cases using JUnit and Jest to ensure robust application logic. Explored serverless and traditional servlet-based application structures.
 
----
+## 💻 Skills
+
+### Programming Languages
+* C, C++, Data Structures
+* Java (JDK 8+), J2EE, ORMs, JMS, OOAD
+* R
+* Python
+* SQL
+
+### Frameworks & Tools
+* **Java Ecosystem:** Hibernate, Spring MVC, Spring IOC, Spring AOP, Spring Boot, JUnit, Maven, Jenkins, Sonar Cube, CodeGenie, Swagger, Postman
+* **Testing:** Jest, Mocha, TestNG, PyTest, Cucumber, Cypress, Playwright
+
+### Databases & Webservers
+* Oracle RDBMS, MySQL, PostgreSQL, MongoDB, SQL Server
+
+### Web Technologies
+* Micro Frontend Architecture, HTML5, CSS3, JavaScript, TypeScript, VueJS, NodeJS, AngularJS, Stencil.js, CSS, XML, JSON, ReactJS, Bootstrap
+
+### DevOps & Cloud
+* RESTful, SOAP, Microservices, AWS, Azure, Splunk, Git, Docker, Kubernetes, BitBucket, Jira, CI/CD (Continuous Integration/Continuous Deployment), Terraform
+
+### Data Science & Miscellaneous
+* Regression, Classification, Clustering, Decision Trees, NLP, Random Forests, ETL, Data Pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics
 
 ## 🎓 Education
 
-* **MASTER OF SCIENCE, COMPUTER SCIENCE** | University of Missouri - Kansas City, KC, MO
-    * *Aug 2022 - Dec 2023*
-    * Relevant Coursework: Statistical Learning, Principles of Data Science, Advanced Operating Systems, Design & Analysis of Algorithms, Software Development, Cloud computing, Network Architecture
-* **BACHELOR OF TECHNOLOGY, COMPUTER SCIENCE** | KL University, India
-    * *June 2016 - May 2020*
-    * Relevant Coursework: Advanced Operating Systems, Database Management Systems, Enterprise Programming, Computer Networks, Software Engineering, Big Data Management, Data Mining
+**MASTER OF SCIENCE, COMPUTER SCIENCE**
+*University of Missouri - Kansas City, KC, MO*
+* *Aug 2022 - Dec 2023*
+* Relevant Coursework: Statistical Learning, Principles of Data Science, Advanced Operating Systems, Design & Analysis of Algorithms, Software Development, Cloud computing, Network Architecture
 
----
-
-## 💻 Personal Projects
-
-Here are some highlights from my personal projects. For more, visit my [GitHub profile](https://github.com/gopimeruva).
-
-### [Online Shopping Cart](https://github.com/gopimeruva/shopping-cart)
-An E-Commerce Website built for selling electronics products online.
-* **Front-End:** HTML, CSS, JavaScript, Bootstrap
-* **Back-End:** Java (JDK 8+), JDBC, Servlet, JSP
-* **Database:** MySQL
-
-### [Pneumonia Detection from Chest X-Ray Images with Deep Learning](https://github.com/gopimeruva/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning)
-Detected Pneumonia from Chest X-Ray images using Custom Deep Convolutional Neural Network and by retraining a pre-trained "InceptionV3" model. Achieved 89.53% testing accuracy.
-* **Domain:** Computer Vision, Machine Learning
-* **Techniques:** Deep Learning, Image Recognition, Deep Convolutional Neural Network, ImageNet, Inception
-* **Application:** Image Classification, Medical Imaging
-
-### [Dental Xray Anomaly Detection](https://github.com/gopimeruva/Dental_Xray_Anamoly_Detection)
-Developed a dental X-ray anomaly detection app using the YOLOv8 segmentation model trained on the Tufts dataset, achieving 98% mAP for accurate detection of dental anomalies.
-* **Technologies:** Python, OpenCV, PyTorch, YOLOv8, Matplotlib, Pandas, Streamlit, Docker
-
-### [Youtube Data Analysis](https://github.com/gopimeruva/Youtube-Data-Analysis?tab=readme-ov-file#youtube-analysis-project-by-gopi-meruva)
-A project to securely manage, streamline, and perform analysis on structured and semi-structured YouTube video data based on categories and trending metrics.
-* **Programming:** Python
-* **AWS Services:** S3, IAM, QuickSight, Glue, Lambda, Athena
-* **Data Engineering:** ETL, Data Ingestion, Data Lake, Scalability, Reporting
-
-### [Spam Classifier](https://github.com/gopimeruva/image-recognition)
-A project for SMS spam classification using the SMS Spam Collection v.1 dataset.
-
-### [Legal Analysis with LLMs](https://github.com/gopimeruva/LEGAL-ANALYSIS/tree/main)
-A project leveraging local LLMs (like Mistral) for legal analysis within isolated Python environments.
-* **Technologies:** Anaconda, Python 3.9, Ollama, Mistral, pip
-
----
+**BACHELOR OF TECHNOLOGY, COMPUTER SCIENCE**
+*KL University, India*
+* *June 2016 - May 2020*
+* Relevant Coursework: Advanced Operating Systems, Database Management Systems, Enterprise Programming, Computer Networks, Software Engineering, Big Data Management, Data Mining
 
 ## 🏆 Certifications
 
@@ -170,20 +147,57 @@ A project leveraging local LLMs (like Mistral) for legal analysis within isolate
 * **Essentials RPA Professional** (Automation Anywhere)
 * **Natural Language Processing** (Microsoft)
 
----
+## 💻 Personal Projects
 
-## 📞 Get In Touch
+Here are a few highlights of my open-source work. Visit my [GitHub Repositories](https://github.com/gopimeruva?tab=repositories) for more.
 
-I’m currently exploring full-time opportunities where I can make a meaningful impact, continue growing as a developer, and dive deeper into my passion for Machine Learning, Computer Vision, and MLOps. I'm especially excited about working on innovative AI solutions and contributing to challenging, real-world projects that push the boundaries of what technology can do.
+1.  **Online Shopping Cart**
+    * **Description**: An E-Commerce Website built for selling electronics products online.
+    * **Tech Stack**:
+        * **Front-End:** HTML, CSS, JavaScript, Bootstrap
+        * **Back-End:** Java (JDK 8+), JDBC, Servlet, JSP
+        * **Database:** MySQL
+    * **Repo Link**: [Online Shopping Cart](https://github.com/gopimeruva/shopping-cart)
 
-Feel free to connect with me!
+2.  **Pneumonia Detection from Chest X-Ray Images with Deep Learning**
+    * **Description**: Detected Pneumonia from Chest X-Ray images using Custom Deep Convolutional Neural Network and by retraining a pre-trained "InceptionV3" model. Achieved 89.53% testing accuracy.
+    * **Domain:** Computer Vision, Machine Learning
+    * **Techniques:** Deep Learning, Image Recognition, Deep Convolutional Neural Network, ImageNet, Inception
+    * **Application:** Image Classification, Medical Imaging
+    * **Repo Link**: [Pneumonia Detection from Chest X-Ray Images with Deep Learning](https://github.com/gopimeruva/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning)
 
-* **Email:** [meruvagopi1@gmail.com](mailto:meruvagopi1@gmail.com)
-* **Phone:** +1 (913) 709-9572
-* **LinkedIn:** [linkedin.com/in/gopireddymeruva](https://www.linkedin.com/in/gopireddymeruva/)
-* **GitHub:** [github.com/gopimeruva](https://github.com/gopimeruva)
+3.  **Dental Xray Anomaly Detection**
+    * **Description**: Developed a dental X-ray anomaly detection app using the YOLOv8 segmentation model trained on the Tufts dataset, achieving 98% mAP for accurate detection of dental anomalies.
+    * **Technologies:** Python, OpenCV, PyTorch, YOLOv8, Matplotlib, Pandas, Streamlit, Docker
+    * **Repo Link**: [Dental Xray Anomaly Detection](https://github.com/gopimeruva/Dental_Xray_Anamoly_Detection)
 
-**Location:** Open to Relocation
+4.  **Youtube Data Analysis**
+    * **Description**: A project to securely manage, streamline, and perform analysis on structured and semi-structured YouTube video data based on categories and trending metrics.
+    * **Programming:** Python
+    * **AWS Services:** S3, IAM, QuickSight, Glue, Lambda, Athena
+    * **Data Engineering:** ETL, Data Ingestion, Data Lake, Scalability, Reporting
+    * **Repo Link**: [Youtube Data Analysis](https://github.com/gopimeruva/Youtube-Data-Analysis?tab=readme-ov-file#youtube-analysis-project-by-gopi-meruva)
+
+5.  **Spam Classifier**
+    * **Description**: A project for SMS spam classification using the SMS Spam Collection v.1 dataset.
+    * **Repo Link**: [Spam Classifier](https://github.com/gopimeruva/image-recognition)
+
+6.  **Legal Analysis with LLMs**
+    * **Description**: A project leveraging local LLMs (like Mistral) for legal analysis within isolated Python environments. This system aims to streamline the analysis of legal materials, making it easier for users to comprehend, search, and extract relevant information efficiently.
+    * **Technologies:** Anaconda, Python 3.9, Ollama, Mistral, pip
+    * **Repo Link**: [Legal Analysis with LLMs](https://github.com/gopimeruva/LEGAL-ANALYSIS/tree/main)
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:meruvagopi1@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email Icon" width="50" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gopireddymeruva/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="50" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gopimeruva"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="50" /></a>
+</p>
+
+I’m always open to discussing data science, AI projects, and collaboration opportunities. Feel free to reach out!
 
 ---
 

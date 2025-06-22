@@ -60,7 +60,7 @@ I am a lifelong learner, always eager to grow, contribute, and collaborate on me
 * Developed automated unit and integration tests using frameworks JUnit and Mockito, increasing code quality and reducing manual testing efforts.
 * Monitored and optimized application performance by analyzing logs and metrics, resolving bottlenecks and enhancing overall system reliability and efficiency.
 
-### **Software Developer** | Capgemini Engineering
+### **Software Engineer** | Capgemini Engineering
 *January 2019 - June 2021*
 * Designed scalable microservices architecture using Spring Boot to handle high-frequency financial transactions, enhancing processing speed and reliability.
 * Integrated advanced authentication and authorization mechanisms to secure banking APIs and protect sensitive user data.

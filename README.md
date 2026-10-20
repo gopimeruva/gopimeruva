@@ -1,203 +1,284 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gopi%20Meruva&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20LLMs%20%7C%20RAG%20%7C%20MLOps&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=7%2B+Years+of+Engineering+Experience;Agentic+AI+%7C+Multi-Agent+Orchestration+%7C+RAG+Pipelines;LangChain+%7C+LangGraph+%7C+AutoGen+%7C+CrewAI+%7C+LlamaIndex;GPT-4o+%7C+Claude+%7C+Gemini+%7C+Llama+3+%7C+AWS+Bedrock;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=13F7BC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Gopi+Meruva!;Full+Stack+Developer+%7C+Data+Science+Enthusiast;Always+Learning+%26+Building+Intelligent+Applications!-blue" />
+  <a href="https://www.linkedin.com/in/gopireddymeruva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://syam-steel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:gopimeruva1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gopimeruva" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
 <p align="center">
-  <a href="mailto:meruvagopi1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meruvagopi1%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="tel:+19137099572"><img alt="Phone" src="https://img.shields.io/badge/Phone-(913)%20709--9572-brightgreen?style=flat-square&logo=google-voice"></a>
-  <a href="https://www.linkedin.com/in/gopireddymeruva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/gopimeruva"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-gopimeruva-lightgrey?style=flat-square&logo=github"></a>
-  <br/>
-  <strong>Location:</strong> Open to Relocation
+  <img src="https://komarev.com/ghpvc/?username=gopimeruva&label=Profile+Views&color=58a6ff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-2ea043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Texas%2C%20Plano-blue?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-**Hello!** I’m Gopi Meruva, a passionate Full Stack Software Engineer with over 5 years of hands-on experience in building secure, scalable, and high-performing applications. I thrive on designing clean architectures, writing maintainable code, and continuously exploring new technologies—especially at the intersection of cloud, automation, and AI. My expertise spans full-stack development, with a deep commitment to transforming complex AI concepts into production-ready solutions. I specialize in leveraging computer vision and LLMs to build scalable systems that solve real-world challenges and deliver measurable results.
+## About Me
+
+> *"I build AI that works in the real world — not just in notebooks."*
+
+I'm an **Agentic AI Engineer with 5+ years of experience** designing and deploying **Agentic AI systems, multi-agent orchestration pipelines, and Generative AI solutions** for enterprise applications. Specialized in building autonomous AI agents, multi-agent workflows, RAG systems, and intelligent automation platforms.
+
+What sets me apart:
+- I design **end-to-end Agentic AI systems** — from single-tool agents to complex multi-agent orchestration pipelines
+- I build **production-grade RAG systems** with semantic search, vector retrieval, and grounded LLM reasoning
+- I work across the full LLM stack — **GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI**
+- I deploy at scale — **Docker, Kubernetes, MLflow, LangSmith, AgentOps, AWS SageMaker, GCP Vertex AI**
+- I focus on **autonomous decision-making, reliability, and production-grade AI** — not just prototypes
+
+**Currently:** Open to **Agentic AI Engineer**, **Generative AI Engineer**, **ML Engineer**, and **AI Research Engineer** roles.
 
 ---
 
-## 📑 Table of Contents
+## Agentic AI & LLM Stack
 
-1.  [About Me](#-about-me)
-2.  [Work Experience](#-work-experience)
-3.  [Skills](#-skills)
-4.  [Education](#-education)
-5.  [Certifications](#-certifications)
-6.  [Personal Projects](#-personal-projects)
-7.  [Let's Connect](#-lets-connect)
+<div align="center">
 
-## 🚀 About Me
+| Category | Technologies |
+|:---|:---|
+| **Agentic Frameworks** | LangChain · LangGraph · AutoGen · CrewAI · LlamaIndex · Haystack · DSPy · Semantic Kernel · OpenAI Agents SDK |
+| **LLM Models** | GPT-4o · Claude · Gemini · Llama 3 · Mistral · Cohere · Ollama |
+| **LLM Platforms** | AWS Bedrock · Azure OpenAI · GCP Vertex AI · Hugging Face Transformers |
+| **Vector Databases** | Pinecone · Weaviate · ChromaDB · FAISS · Qdrant · Milvus · pgvector · Elasticsearch |
+| **Prompt Engineering** | Chain-of-Thought (CoT) · ReAct · ReWOO · Reflexion · Tool-Use Prompting |
+| **Fine-Tuning** | LoRA · QLoRA · PEFT · RLHF |
+| **LLMOps / AgentOps** | MLflow · LangSmith · AgentOps · Weights & Biases · GitHub Actions · Jenkins · CI/CD |
 
-I've had the privilege of contributing to impactful projects across various domains, including education, HR/payroll, and financial services, through my roles at **Capital One**, **ADP**, and **Capgemini Engineering**.
+</div>
 
-I specialize in **Java, Spring Boot, Hibernate, and modern web service architectures**, always striving for robust, scalable systems and clean code. Beyond traditional development, I'm fascinated by AI, particularly computer vision and Large Language Models (LLMs), and I'm actively working to integrate these into practical, intelligent applications.
+---
 
-I am a lifelong learner, always eager to grow, contribute, and collaborate on meaningful software that makes a difference.
+## Professional Experience
 
-## 💼 Work Experience
+<details open>
+<summary><b>🤖 Agentic AI Engineer | USAA</b> &nbsp;|&nbsp; July 2025 – June 2026 · Chicago, IL, USA</summary>
 
-### **Software Developer Engineer** | Capital One | Richmond, Virginia
-*Jan 2024 - Present*
-* Designed and developed a responsive, feature-rich UI using Vue 3, HTML, CSS, JavaScript, and TypeScript for managing and verifying weekly timesheets for call center agents.
-* Engineered backend services in Java and J2EE, implementing RESTful web services for efficient data retrieval, mapping, and decoding from Snowflake to PostgreSQL.
-* Applied Object-Oriented Analysis and Design (OOAD) and OOP principles throughout the application architecture to ensure modular, maintainable codebases.
-* Built and tested REST APIs with Postman, ensuring reliability, performance, and correct integration with frontend workflows.
-* Optimized RESTful services and implemented efficient data structures in applications using Agile methodologies, consistently meeting project deadlines and quality standards.
-* Developed unit tests using JUnit and Jest to validate code functionality, ensuring code coverage and robustness.
-* Agile Scrum methodology, participating in daily standups, sprint planning, retrospectives, and delivering features in iterative sprints.
+<br/>
 
-### **Member Technical** | ADP | Hyderabad, India
-*June 2021 - August 2022*
-* Developed and maintained robust, high-performance Java applications within ADP’s payroll and human capital management systems, enhancing usability and scalability.
-* Designed and implemented RESTful APIs to support seamless integration across services, improving system interoperability.
-* Worked on Spring Boot and Hibernate for backend development, ensuring optimized performance and secure data management.
-* Automated resource provisioning using PowerShell scripts to create and manage AWS Virtual Machines, Virtual Networks, and Storage Accounts.
-* Applied Agile methodologies, participating in sprint planning, code reviews, and daily stand-ups to ensure timely delivery of high-quality features. Utilized Docker and Kubernetes to containerize applications, streamlining deployment processes and minimizing infrastructure costs.
-* Enhanced existing applications with microservices architecture, reducing system dependencies and increasing modularity.
-* Collaborated with cross-functional teams to gather and refine requirements, translating business needs into technical specifications.
-* Developed microservices using Spring Boot and Java 8, interacting with MongoDB and SQL Server, and exposing APIs for front-end applications built in React JS.
-* Integrated ADP applications with AWS services, utilizing Lambda and S3 to automate workflows and achieve efficient data storage and processing solutions.
-* Developed automated unit and integration tests using frameworks JUnit and Mockito, increasing code quality and reducing manual testing efforts.
-* Monitored and optimized application performance by analyzing logs and metrics, resolving bottlenecks and enhancing overall system reliability and efficiency.
+• Designed and deployed enterprise-scale Agentic AI solutions using Python, FastAPI, LangChain, LangGraph,
+and OpenAI APIs, automating customer service workflows, insurance claims processing, fraud investigations, and
+financial operations, reducing manual effort by 45% and improving response times by 60%.
 
-### **Software Engineer** | Capgemini Engineering
-*January 2019 - June 2021*
-* Designed scalable microservices architecture using Spring Boot to handle high-frequency financial transactions, enhancing processing speed and reliability.
-* Integrated advanced authentication and authorization mechanisms to secure banking APIs and protect sensitive user data.
-* Implemented comprehensive unit testing using both JUnit for backend and Jest for frontend JavaScript code, increasing overall code coverage and reducing bugs in production.
-* Implemented advanced logging and monitoring for error tracing and performance insights in cloud-native applications, using ELK Stack and Prometheus.
-* Integrated with third-party services via REST APIs to offer extended banking features, such as financial planning tools and credit monitoring. Configured and maintained Active Directory for role-based access control across Azure resources.
-* Utilized Jenkins and GitHub Actions to streamline CI/CD workflows, reducing deployment times and minimizing manual intervention.
-* Utilized Managed File Transfer (MFT) solutions to securely transfer sensitive financial data between systems, ensuring compliance with data protection regulations.
-* Implemented OAuth2 and SAML-based authentication for microservices APIs hosted in Azure, aligning with enterprise security protocols and compliance standards.
-* Integrated frameworks like Apache Kafka with Azure Event Hubs for high-throughput real-time data streaming applications.
-* Deployed applications using Spring Boot and hosted them on Azure App Service, leveraging Managed Identity for secure integration with Azure services.
-* Developed scalable, containerized applications using Docker and orchestrated deployment with Azure Kubernetes Service (AKS), enabling seamless scaling during peak traffic.
-* Applied Object-Oriented Analysis and Design (OOAD) principles to create modular, scalable, and maintainable software architectures for enterprise applications.
-* Implemented security zones to segment workloads and enforce access policies, ensuring compliance with enterprise security.
-* Developed enterprise applications using J2EE technologies, including servlets, JSP, and EJBs, ensuring scalability and performance in large-scale systems.
-* Enhanced application availability and fault tolerance by implementing Azure Load Balancer and Traffic Manager for multi-region failover Azure PaaS and IaaS services.
-* Managed API documentation with Swagger and Postman, enhancing developer productivity and simplifying integration.
-* DB for high-speed data storage and retrieval, optimizing user experience during high-traffic periods.
-* Participated in code refactoring initiatives to improve legacy codebase stability and design patterns.
-* Proficient in using Eclipse IDE and IntelliJ for efficient Java development, their advanced features for code optimization and debugging.
+• Developed intelligent AI Agents and Multi-Agent Systems using LangGraph, AutoGen, CrewAI, and DSPy to
+orchestrate policy servicing, claims adjudication, risk assessment, and customer support operations, increasing
+operational efficiency by 40% across business units.
 
-### **Graduate Teaching Assistant** | University of Missouri-Kansas City | Kansas City, Missouri
-*January 2023 - December 2023*
-* Supported course instruction by preparing materials, assisting during lectures/labs, and facilitating group discussions on topics such as supervised learning, neural networks, and Bayesian inference.
-* Held regular office hours to provide one-on-one academic support and clarify complex concepts in AI and statistics.
-* Graded assignments, projects, and exams with detailed feedback to reinforce learning and improve student outcomes.
-* Designed and evaluated coding assignments in Python and R, focused on practical applications of machine learning models and data analysis.
-* Assisted in organizing workshops and tutorials to enhance students’ hands-on experience with tools like Scikit-learn, TensorFlow, and MATLAB.
-* Collaborated with faculty to refine course content and ensure alignment with learning objectives and emerging trends in AI and data science.
+• Built production-grade LLM-powered AI Copilots leveraging GPT-4o, Claude, Gemini, Llama 3, and AWS
+Bedrock to assist claims analysts, fraud investigators, and customer service representatives, reducing research time
+by 55% and improving decision accuracy by 35%.
 
-### **Programmer Analyst Trainee (Intern)** | BSNL | Vijayawada, India
-*June 2018 - June 2019*
-* Assisted in the development of a network management system using Java and Spring, enhancing system reliability and performance.
-* Collaborated with cross-functional teams to gather requirements and deliver features on time.
-* Understood and reviewed routing protocols and routing table configurations.
-* Applied Object-Oriented Analysis and Design (OOAD) in building modular codebases. Implemented and maintained J2EE components including Servlets, JSP, and EJBs. Wrote Unit, Live dependency test cases using JUnit and Jest to ensure robust application logic. Explored serverless and traditional servlet-based application structures.
+• Engineered advanced Retrieval-Augmented Generation (RAG) platforms using LangChain, LlamaIndex,
+Pinecone, Weaviate, and FAISS, enabling semantic retrieval of policy documents, compliance regulations, claims
+history, and customer records with 92% retrieval accuracy.
 
-## 💻 Skills
+• Implemented autonomous AI agent workflows for insurance claims triage, document verification, policy
+recommendations, and underwriting support, accelerating claims processing cycles by 50% and improving customer
+satisfaction scores by 30%.
 
-### Programming Languages
-* C, C++, Data Structures
-* Java (JDK 8+), J2EE, ORMs, JMS, OOAD
-* R
-* Python
-* SQL
+• Developed conversational AI and virtual assistant solutions using OpenAI, Hugging Face Transformers, and Azure
+OpenAI to provide real-time policy support, claims status updates, and financial guidance, handling over 70% of
+customer inquiries without human intervention.
 
-### Frameworks & Tools
-* **Java Ecosystem:** Hibernate, Spring MVC, Spring IOC, Spring AOP, Spring Boot, JUnit, Maven, Jenkins, Sonar Cube, CodeGenie, Swagger, Postman
-* **Testing:** Jest, Mocha, TestNG, PyTest, Cucumber, Cypress, Playwright
+• Built scalable vector search and knowledge management systems using Pinecone, Qdrant, Milvus, ChromaDB,
+Elasticsearch, and pgvector, supporting enterprise-wide AI-powered search capabilities across millions of insurances
+and financial records.
 
-### Databases & Webservers
-* Oracle RDBMS, MySQL, PostgreSQL, MongoDB, SQL Server
+• Applied advanced prompt engineering methodologies including Chain-of-Thought (CoT), ReAct, Self-
+Consistency, Few-Shot Learning, and Function Calling, improving LLM reasoning performance by 35% and
+reducing hallucination rates by 40%.
 
-### Web Technologies
-* Micro Frontend Architecture, HTML5, CSS3, JavaScript, TypeScript, VueJS, NodeJS, AngularJS, Stencil.js, CSS, XML, JSON, ReactJS, Bootstrap
+• Fine-tuned domain-specific LLMs using LoRA, QLoRA, PEFT, and Hugging Face Transformers on insurance,
+claims, and fraud datasets, increasing model precision by 28% and reducing inference costs by 30%.
 
-### DevOps & Cloud
-* RESTful, SOAP, Microservices, AWS, Azure, Splunk, Git, Docker, Kubernetes, BitBucket, Jira, CI/CD (Continuous Integration/Continuous Deployment), Terraform
+• Established enterprise-grade LLMOps and MLOps frameworks using Docker, Kubernetes, MLflow, LangSmith,
+Weights & Biases, GitHub Actions, Jenkins, and CI/CD pipelines for automated deployment, monitoring,
+governance, and observability of AI agents and LLM application
 
-### Data Science & Miscellaneous
-* Regression, Classification, Clustering, Decision Trees, NLP, Random Forests, ETL, Data Pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics
+**Stack:** `LangGraph` `AutoGen` `CrewAI` `LangChain` `LlamaIndex` `GPT-4o` `Claude` `Gemini` `Llama 3` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b> AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – July 2024 · Hyderabad, India</summary>
+
+<br/>
+
+- Designed and implemented **ML models** using Python, SQL, R, Scikit-learn, and XGBoost for predictive maintenance, equipment failure prediction, asset health monitoring, and operational performance optimization across railway and industrial systems
+- Developed **ETL pipelines and feature engineering frameworks** to process large-scale sensor, telemetry, manufacturing, and operational datasets for predictive analytics
+- Applied ML algorithms — regression, clustering, classification, decision trees, SVM — for trend identification and risk management
+- Created **BI dashboards and automated reporting** using Tableau, Power BI, Excel, and SQL for real-time visibility into manufacturing KPIs and equipment performance
+
+**Stack:** `Python` `SQL` `R` `Scikit-learn` `XGBoost` `Tableau` `Power BI` `ETL Pipelines` `Git` `JIRA`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b> Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
+
+<br/>
+
+- Analyzed large-scale operational, workforce, and service delivery datasets using Python, SQL, Pandas, and NumPy to identify trends in productivity, resource utilization, and operational efficiency
+- Developed **interactive dashboards and KPI scorecards** using Power BI and Tableau to monitor workforce performance, SLA compliance, and facility operations
+- Built and optimized **ETL pipelines and data transformation workflows** integrating HR systems, workforce management platforms, and enterprise databases
+- Applied **statistical analysis, predictive modeling, and forecasting** to improve workforce planning, demand forecasting, and service delivery optimization
+
+**Stack:** `Python` `SQL` `Power BI` `Tableau` `Pandas` `NumPy` `ETL` `Git` `JIRA`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b> Data Scientist | Alstom</b> &nbsp;|&nbsp; July 2018 – Aug 2021 · Bangalore, India</summary>
+
+<br/>
+
+- Developed **interactive dashboards and BI reports** using Power BI, Tableau, Looker, BigQuery, and Azure SQL Database to monitor railway operations, fleet performance, and manufacturing KPIs
+- Performed **advanced data analysis and statistical modeling** using Python, R, SQL, Pandas, Matplotlib, and ggplot2 to analyze train performance, equipment reliability, and asset utilization
+- Built **scalable ETL pipelines** using Azure Data Factory, Logic Apps, GCP, SQL, and Python to consolidate data from enterprise systems, IoT sensors, and operational databases
+- Applied **predictive analytics and ML models** to predict equipment failures, optimize maintenance schedules, and reduce downtime
+
+**Stack:** `Python` `R` `SQL` `Power BI` `Tableau` `Looker` `Azure Data Factory` `BigQuery` `GCP`
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+###  Agentic RAG — Document Intelligence Q&A Platform with Voice Assistant
+> *Turn any document into a queryable knowledge base — with voice*
+
+- Architected an **Agentic AI-powered Document Intelligence Platform** with end-to-end RAG pipeline using **LangChain Expression Language (LCEL)**, FAISS vector store, and OpenAI Embeddings
+- Integrated **Groq Llama 3.3 70B** with custom prompt engineering delivering autonomous, context-aware document Q&A **under 3s latency**
+- Built **answer grounding** ensuring responses are strictly sourced from provided documents — zero hallucination
+- Integrated **voice assistant** using speech-to-text + ElevenLabs TTS with a clean Streamlit UI and query history
+
+`Python` `LangChain` `LangGraph` `Groq` `OpenAI` `FAISS` `Streamlit` `Agentic RAG` `Prompt Engineering`
+
+---
+
+###  Large-Scale Amazon Recommender System
+> *Production-architected recommendation engine at 7M+ scale*
+
+- Built scalable recommender system using **collaborative filtering and cosine similarity** for user-item matching
+- Processed **548K+ products and 7M+ reviews** with full preprocessing pipelines using Apache Spark
+- Achieved **<100ms search** and **<500ms recommendation** response times
+- Deployed via **Docker and AWS Elastic Beanstalk** with real-time performance monitoring
+
+`Python` `Flask` `Scikit-learn` `Pandas` `Docker` `AWS` `Apache Spark`
+
+---
+
+### Gesture Controlled AI Math Assistant
+> *Solve math problems with your hands*
+
+- Engineered **real-time hand gesture recognition** using OpenCV and cvzone with **<100ms responsiveness**
+- Integrated **Google Gemini 2.0 Flash LLM** (multimodal) to process hand-drawn math equations as images and return AI-generated step-by-step solutions in real time
+
+`Python` `OpenCV` `Google Gemini LLM` `Computer Vision` `Generative AI`
+
+---
+
+##  Full Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,aws,azure,gcp,kubernetes,git,github,linux,flask,fastapi,mysql,postgres,mongodb&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | Python · SQL · JavaScript · TypeScript · Bash · Java · C++ · R |
+| **AI / ML & GenAI** | Agentic AI · Multi-Agent Systems · Machine Learning · Deep Learning · NLP · RAG · Semantic Search · Recommendation Systems |
+| **LLM Frameworks** | LangChain · LangGraph · LlamaIndex · AutoGen · CrewAI · Haystack · DSPy · Semantic Kernel · OpenAI Agents SDK · Anthropic SDK |
+| **ML Frameworks** | TensorFlow · PyTorch · Scikit-learn · Keras · XGBoost · LightGBM · SpaCy · NLTK · OpenCV |
+| **MLOps / LLMOps** | Docker · Kubernetes · MLflow · LangSmith · AgentOps · Weights & Biases · GitHub Actions · Jenkins · CI/CD |
+| **Backend & APIs** | FastAPI · Flask · REST APIs · Microservices · Event-Driven Architecture |
+| **Cloud** | AWS (SageMaker, Lambda, S3, Bedrock) · Microsoft Azure · GCP (Vertex AI, BigQuery, Cloud Run) |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Redis · Cassandra · Apache Spark · Hadoop · Kafka · ETL Pipelines |
+| **Visualization** | Streamlit · Gradio · Jupyter Notebook · Power BI · Tableau |
+| **Responsible AI** | AI Governance · Guardrails · Prompt Injection Defense · Model Evaluation · Bias Mitigation · Explainable AI |
+
+</div>
+
+---
 
 ## 🎓 Education
 
-**MASTER OF SCIENCE, COMPUTER SCIENCE**
-*University of Missouri - Kansas City, KC, MO*
-* *Aug 2022 - Dec 2023*
-* Relevant Coursework: Statistical Learning, Principles of Data Science, Advanced Operating Systems, Design & Analysis of Algorithms, Software Development, Cloud computing, Network Architecture
+<div align="center">
 
-**BACHELOR OF TECHNOLOGY, COMPUTER SCIENCE**
-*KL University, India*
-* *June 2016 - May 2020*
-* Relevant Coursework: Advanced Operating Systems, Database Management Systems, Enterprise Programming, Computer Networks, Software Engineering, Big Data Management, Data Mining
+| 🏫 Institution | 📚 Degree | 📅 Duration |
+|:---|:---|:---|
+| **Governors State University**, Chicago, IL | MS Computer Science | Aug 2024 – May 2026 |
+| | *Foundations of AI · Reinforcement Learning · Advanced Operating Systems* | |
 
-## 🏆 Certifications
-
-* **Generative AI Fundamentals** (Databricks Academy Accreditation)
-* **Oracle Cloud Infrastructure 2023 Certified Architect Associate** (Oracle)
-* **Microsoft Azure Fundamentals** (Microsoft)
-* **Multi – Cloud Networking Associate** (Aviatrix)
-* **Cybersecurity Essentials** (Cisco Networking Academy)
-* **RPA Developer Advanced** (UiPath)
-* **Essentials RPA Professional** (Automation Anywhere)
-* **Natural Language Processing** (Microsoft)
-
-## 💻 Personal Projects
-
-Here are a few highlights of my open-source work. Visit my [GitHub Repositories](https://github.com/gopimeruva?tab=repositories) for more.
-
-1.  **Online Shopping Cart**
-    * **Description**: An E-Commerce Website built for selling electronic products online.
-    * **Tech Stack**:
-        * **Front-End:** HTML, CSS, JavaScript, Bootstrap
-        * **Back-End:** Java (JDK 8+), JDBC, Servlet, JSP
-        * **Database:** MySQL
-    * **Repo Link**: [Online Shopping Cart](https://github.com/gopimeruva/shopping-cart)
-
-2.  **Pneumonia Detection from Chest X-Ray Images with Deep Learning**
-    * **Description**: Detected Pneumonia from Chest X-Ray images using Custom Deep Convolutional Neural Network and by retraining a pre-trained "InceptionV3" model. Achieved 89.53% testing accuracy.
-    * **Domain:** Computer Vision, Machine Learning
-    * **Techniques:** Deep Learning, Image Recognition, Deep Convolutional Neural Network, ImageNet, Inception
-    * **Application:** Image Classification, Medical Imaging
-    * **Repo Link**: [Pneumonia Detection from Chest X-Ray Images with Deep Learning](https://github.com/gopimeruva/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning)
-
-3.  **Dental Xray Anomaly Detection**
-    * **Description**: Developed a dental X-ray anomaly detection app using the YOLOv8 segmentation model trained on the Tufts dataset, achieving 98% mAP for accurate detection of dental anomalies.
-    * **Technologies:** Python, OpenCV, PyTorch, YOLOv8, Matplotlib, Pandas, Streamlit, Docker
-    * **Repo Link**: [Dental Xray Anomaly Detection](https://github.com/gopimeruva/Dental_Xray_Anamoly_Detection)
-
-4.  **Youtube Data Analysis**
-    * **Description**: A project to securely manage, streamline, and perform analysis on structured and semi-structured YouTube video data based on categories and trending metrics.
-    * **Programming:** Python
-    * **AWS Services:** S3, IAM, QuickSight, Glue, Lambda, Athena
-    * **Data Engineering:** ETL, Data Ingestion, Data Lake, Scalability, Reporting
-    * **Repo Link**: [Youtube Data Analysis](https://github.com/gopimeruva/Youtube-Data-Analysis?tab=readme-ov-file#youtube-analysis-project-by-gopi-meruva)
-
-5.  **Spam Classifier**
-    * **Description**: A project for SMS spam classification using the SMS Spam Collection v.1 dataset.
-    * **Repo Link**: [Spam Classifier](https://github.com/gopimeruva/image-recognition)
-
-6.  **Legal Analysis with LLMs**
-    * **Description**: A project leveraging local LLMs (like Mistral) for legal analysis within isolated Python environments. This system aims to streamline the analysis of legal materials, making it easier for users to comprehend, search, and extract relevant information efficiently.
-    * **Technologies:** Anaconda, Python 3.9, Ollama, Mistral, pip
-    * **Repo Link**: [Legal Analysis with LLMs](https://github.com/gopimeruva/LEGAL-ANALYSIS/tree/main)
-
-## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="mailto:meruvagopi1@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email Icon" width="50" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gopireddymeruva/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="50" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gopimeruva"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="50" /></a>
-</p>
-
-I’m always open to discussing  Full-Stack Software Engineering, data science, AI projects, and collaboration opportunities. Feel free to reach out!
+</div>
 
 ---
 
-<p align="center">Designed by Gopi Meruva &copy; 2025 All rights reserved</p>
+## 🏆 Achievements & Competitive Programming
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-200%2B%20Problems-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSU%20Drone%20Club-Leader-00ADD8?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopimeruva&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gopireddymeruva/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Gopi Meruva-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="mailto:gopimeruva1@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-gopimeruva1%40gmail.com-D14836?style=for-the-badge" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Open%20to%20Agentic%20AI%20Opportunities&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
+<p align="center">
+  <i>⭐ If any of my projects helped you, consider giving them a star — it means a lot!</i><br/>
+  <b>Built with consistency, curiosity, and a lot of Python 🐍</b>
+</p>

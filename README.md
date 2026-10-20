@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=7%2B+Years+of+Engineering+Experience;Agentic+AI+%7C+Multi-Agent+Orchestration+%7C+RAG+Pipelines;LangChain+%7C+LangGraph+%7C+AutoGen+%7C+CrewAI+%7C+LlamaIndex;GPT-4o+%7C+Claude+%7C+Gemini+%7C+Llama+3+%7C+AWS+Bedrock;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=5%2B+Years+of+Engineering+Experience;Agentic+AI+%7C+Multi-Agent+Orchestration+%7C+RAG+Pipelines;LangChain+%7C+LangGraph+%7C+AutoGen+%7C+CrewAI+%7C+LlamaIndex;GPT-4o+%7C+Claude+%7C+Gemini+%7C+Llama+3+%7C+AWS+Bedrock;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/gopireddymeruva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://syam-steel.vercel.app/" target="_blank">
+  <a href="https://portfolio-a7bb1.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:gopimeruva1@gmail.com">
@@ -63,106 +63,6 @@ What sets me apart:
 | **LLMOps / AgentOps** | MLflow · LangSmith · AgentOps · Weights & Biases · GitHub Actions · Jenkins · CI/CD |
 
 </div>
-
----
-
-## Professional Experience
-
-<details open>
-<summary><b>🤖 Agentic AI Engineer | USAA</b> &nbsp;|&nbsp; July 2025 – June 2026 · Chicago, IL, USA</summary>
-
-<br/>
-
-• Designed and deployed enterprise-scale Agentic AI solutions using Python, FastAPI, LangChain, LangGraph,
-and OpenAI APIs, automating customer service workflows, insurance claims processing, fraud investigations, and
-financial operations, reducing manual effort by 45% and improving response times by 60%.
-
-• Developed intelligent AI Agents and Multi-Agent Systems using LangGraph, AutoGen, CrewAI, and DSPy to
-orchestrate policy servicing, claims adjudication, risk assessment, and customer support operations, increasing
-operational efficiency by 40% across business units.
-
-• Built production-grade LLM-powered AI Copilots leveraging GPT-4o, Claude, Gemini, Llama 3, and AWS
-Bedrock to assist claims analysts, fraud investigators, and customer service representatives, reducing research time
-by 55% and improving decision accuracy by 35%.
-
-• Engineered advanced Retrieval-Augmented Generation (RAG) platforms using LangChain, LlamaIndex,
-Pinecone, Weaviate, and FAISS, enabling semantic retrieval of policy documents, compliance regulations, claims
-history, and customer records with 92% retrieval accuracy.
-
-• Implemented autonomous AI agent workflows for insurance claims triage, document verification, policy
-recommendations, and underwriting support, accelerating claims processing cycles by 50% and improving customer
-satisfaction scores by 30%.
-
-• Developed conversational AI and virtual assistant solutions using OpenAI, Hugging Face Transformers, and Azure
-OpenAI to provide real-time policy support, claims status updates, and financial guidance, handling over 70% of
-customer inquiries without human intervention.
-
-• Built scalable vector search and knowledge management systems using Pinecone, Qdrant, Milvus, ChromaDB,
-Elasticsearch, and pgvector, supporting enterprise-wide AI-powered search capabilities across millions of insurances
-and financial records.
-
-• Applied advanced prompt engineering methodologies including Chain-of-Thought (CoT), ReAct, Self-
-Consistency, Few-Shot Learning, and Function Calling, improving LLM reasoning performance by 35% and
-reducing hallucination rates by 40%.
-
-• Fine-tuned domain-specific LLMs using LoRA, QLoRA, PEFT, and Hugging Face Transformers on insurance,
-claims, and fraud datasets, increasing model precision by 28% and reducing inference costs by 30%.
-
-• Established enterprise-grade LLMOps and MLOps frameworks using Docker, Kubernetes, MLflow, LangSmith,
-Weights & Biases, GitHub Actions, Jenkins, and CI/CD pipelines for automated deployment, monitoring,
-governance, and observability of AI agents and LLM application
-
-**Stack:** `LangGraph` `AutoGen` `CrewAI` `LangChain` `LlamaIndex` `GPT-4o` `Claude` `Gemini` `Llama 3` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes`
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b> AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – July 2024 · Hyderabad, India</summary>
-
-<br/>
-
-- Designed and implemented **ML models** using Python, SQL, R, Scikit-learn, and XGBoost for predictive maintenance, equipment failure prediction, asset health monitoring, and operational performance optimization across railway and industrial systems
-- Developed **ETL pipelines and feature engineering frameworks** to process large-scale sensor, telemetry, manufacturing, and operational datasets for predictive analytics
-- Applied ML algorithms — regression, clustering, classification, decision trees, SVM — for trend identification and risk management
-- Created **BI dashboards and automated reporting** using Tableau, Power BI, Excel, and SQL for real-time visibility into manufacturing KPIs and equipment performance
-
-**Stack:** `Python` `SQL` `R` `Scikit-learn` `XGBoost` `Tableau` `Power BI` `ETL Pipelines` `Git` `JIRA`
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b> Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
-
-<br/>
-
-- Analyzed large-scale operational, workforce, and service delivery datasets using Python, SQL, Pandas, and NumPy to identify trends in productivity, resource utilization, and operational efficiency
-- Developed **interactive dashboards and KPI scorecards** using Power BI and Tableau to monitor workforce performance, SLA compliance, and facility operations
-- Built and optimized **ETL pipelines and data transformation workflows** integrating HR systems, workforce management platforms, and enterprise databases
-- Applied **statistical analysis, predictive modeling, and forecasting** to improve workforce planning, demand forecasting, and service delivery optimization
-
-**Stack:** `Python` `SQL` `Power BI` `Tableau` `Pandas` `NumPy` `ETL` `Git` `JIRA`
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b> Data Scientist | Alstom</b> &nbsp;|&nbsp; July 2018 – Aug 2021 · Bangalore, India</summary>
-
-<br/>
-
-- Developed **interactive dashboards and BI reports** using Power BI, Tableau, Looker, BigQuery, and Azure SQL Database to monitor railway operations, fleet performance, and manufacturing KPIs
-- Performed **advanced data analysis and statistical modeling** using Python, R, SQL, Pandas, Matplotlib, and ggplot2 to analyze train performance, equipment reliability, and asset utilization
-- Built **scalable ETL pipelines** using Azure Data Factory, Logic Apps, GCP, SQL, and Python to consolidate data from enterprise systems, IoT sensors, and operational databases
-- Applied **predictive analytics and ML models** to predict equipment failures, optimize maintenance schedules, and reduce downtime
-
-**Stack:** `Python` `R` `SQL` `Power BI` `Tableau` `Looker` `Azure Data Factory` `BigQuery` `GCP`
-
-</details>
 
 ---
 
@@ -235,7 +135,7 @@ governance, and observability of AI agents and LLM application
 
 | 🏫 Institution | 📚 Degree | 📅 Duration |
 |:---|:---|:---|
-| **Governors State University**, Chicago, IL | MS Computer Science | Aug 2024 – May 2026 |
+| **University of Missouri-Kansas City**, Kansas, MO | MS Computer Science | Aug 2022 – Dec 2023 |
 | | *Foundations of AI · Reinforcement Learning · Advanced Operating Systems* | |
 
 </div>
